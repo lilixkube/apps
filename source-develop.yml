@@ -5,7 +5,7 @@ metadata:
   name: develop
   namespace: flux-system
 spec:
-  interval: 30s
+  interval: 40s
   ref:
     branch: main
   url: https://github.com/lilixkube/apps.git
